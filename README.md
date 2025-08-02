@@ -15,9 +15,7 @@ A simple and secure password generator built to help users create strong, random
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
+- Python
 
 ## 📦 Installation
 
