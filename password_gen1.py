@@ -1,8 +1,9 @@
+
 import streamlit as st
 import random
 import string
 
-import pyperclip
+
 
 # Page configuration
 st.set_page_config(
