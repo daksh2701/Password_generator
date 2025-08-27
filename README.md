@@ -17,9 +17,4 @@ A simple and secure password generator built to help users create strong, random
 
 - Python
 
-## 📦 Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/password-generator.git
